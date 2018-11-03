@@ -1,0 +1,9 @@
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\bin\Debug\Scientifice Calculator.exe.config
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\obj\Debug\Scientifice Calculator.csprojResolveAssemblyReference.cache
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\obj\Debug\Scientifice_Calculator.Form1.resources
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\obj\Debug\Scientifice_Calculator.Properties.Resources.resources
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\obj\Debug\Scientifice Calculator.csproj.GenerateResource.Cache
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\bin\Debug\Scientifice Calculator.exe
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\bin\Debug\Scientifice Calculator.pdb
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\obj\Debug\Scientifice Calculator.exe
+E:\Assignment\4th Semester\C#\Scientifice Calculator\Scientifice Calculator\obj\Debug\Scientifice Calculator.pdb
